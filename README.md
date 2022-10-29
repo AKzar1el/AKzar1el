@@ -42,7 +42,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/AKzar1el">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKzar1el&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKzar1el&theme=buefy&layout=compact" />
 </a>
