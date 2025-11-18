@@ -9,38 +9,6 @@ Backend developer and technical founder building production systems that actuall
 - 🎬 &nbsp; Creating AI-generated content for YouTube using Sora 2 and professional video editing workflows
 - 🌍 &nbsp; Multilingual: Slovenian, English, German, Croatian/Serbian/Bosnian
 
-<h3>💻 &nbsp;Tech Stack</h3>
-
-**Backend & Core**
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
-**Frontend & Frameworks**
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![TradingView](https://img.shields.io/badge/-TradingView-333333?style=flat&logo=tradingview)
-
-**Databases**
-- ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
-**AI & Tools**
-- ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
-  ![LLM Integration](https://img.shields.io/badge/-LLM_Integration-333333?style=flat)
-  ![Sora](https://img.shields.io/badge/-Sora_2-333333?style=flat)
-
-**DevOps & Tools**
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-**Video Production**
-- ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-333333?style=flat)
-  ![CapCut](https://img.shields.io/badge/-CapCut-333333?style=flat)
-
 <h3>🎯 &nbsp;Current Focus</h3>
 
 - 📊 Building real-time crypto trading infrastructure with open interest analysis, liquidation tracking, and multi-timeframe delta calculations
