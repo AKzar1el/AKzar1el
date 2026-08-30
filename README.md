@@ -13,3 +13,5 @@ I work mainly in TypeScript/Node.js and Python, with Cloudflare Workers, APIs, O
 - [walk-forward-crypto — walk-forward crypto research system](https://github.com/AKzar1el/walk-forward-crypto)
 
 [Portfolio](https://tomiseregi.si) · [DigestSEO](https://digestseo.com) · [LinkedIn](https://www.linkedin.com/in/tomi-seregi/)
+
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/AKzar1el.svg)](https://ghcommits.com/u/AKzar1el)
