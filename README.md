@@ -1,4 +1,4 @@
-# Tomi Šeregi — AI / Backend Engineer
+# Tommy — Engineer
 
 AI/backend engineer building MCP tools, agent infrastructure, and production automation.
 
