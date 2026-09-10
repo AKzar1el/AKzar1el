@@ -4,9 +4,9 @@
 
 <p align="center">
   <strong>I love code</strong>&nbsp;
-  <img src="https://wsrv.nl/?url=media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif&w=180&h=128&fit=cover&a=attention&output=gif&n=-1" width="180" height="128" align="middle" alt="Coding monkey" />
+  <img src="https://wsrv.nl/?url=media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif&w=150&h=107&fit=cover&a=attention&output=gif&n=-1" width="150" height="107" align="bottom" alt="Coding monkey" />
   &nbsp;&nbsp;<strong>and God</strong>&nbsp;
-  <img src="https://wsrv.nl/?url=media1.giphy.com/media/s35s4lFBxpndm/giphy.gif&w=180&h=128&fit=cover&a=attention&output=gif&n=-1" width="180" height="128" align="middle" alt="Jesus blessing" />
+  <img src="https://wsrv.nl/?url=media1.giphy.com/media/s35s4lFBxpndm/giphy.gif&w=150&h=107&fit=cover&a=attention&output=gif&n=-1" width="150" height="107" align="bottom" alt="Jesus blessing" />
 </p>
 
 # Tommy — Engineer
