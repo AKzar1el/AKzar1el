@@ -27,5 +27,5 @@ I work mainly in TypeScript/Node.js and Python, with Cloudflare Workers, APIs, O
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ4anQ3NHl6bjU0M2Jnb2U5Z3Nuem84aHdpcDJnc3A4NDNwdnQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4VSEzGYsVBfyCLX8X/giphy.gif" width="84%" height="82" alt="Loading" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTcwMnNlNGR2azV4cWx1NjIyamlxcjAxc3lrdjJ0amw5bGhvcmYxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dejHW3Yo7621sInK9F/giphy.gif" width="12%" height="82" alt="France love" />
+  <img src="./assets/france-love.gif" width="12%" height="82" alt="France love" />
 </p>
