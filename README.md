@@ -15,7 +15,6 @@
 
 <p align="center">
   <br />
-  <br />
   check out my <a href="https://tomiseregi.si">Portfolio</a>&nbsp;<img src="./assets/fire-inline.gif" width="17" height="22" align="middle" alt="Fire" />
   <br />
   <br />
