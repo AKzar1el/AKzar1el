@@ -2,6 +2,14 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8yZTd3aDl3bzBuNWFsdXhvMGo2cjRucjdoMWFtemJ6N2h0cTkydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FuJnPhK1koJ3NmvZJE/giphy.gif" width="480" alt="Hello" />
 </p>
 
+<p align="center"><strong>I love code and God.</strong></p>
+
+<p align="center">
+  <img src="https://wsrv.nl/?url=media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif&w=350&h=250&fit=cover&a=attention&output=gif&n=-1" width="350" height="250" alt="Coding monkey" />
+  &nbsp;&nbsp;
+  <img src="https://wsrv.nl/?url=media1.giphy.com/media/s35s4lFBxpndm/giphy.gif&w=350&h=250&fit=cover&a=attention&output=gif&n=-1" width="350" height="250" alt="Jesus blessing" />
+</p>
+
 # Tommy — Engineer
 
 AI/backend engineer building MCP tools, agent infrastructure, and production automation.
