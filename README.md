@@ -7,10 +7,12 @@
   <img src="https://wsrv.nl/?url=media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif&w=150&h=107&fit=cover&a=attention&output=gif&n=-1" width="150" height="107" align="bottom" alt="Coding monkey" />
   &nbsp;&nbsp;<strong>and God</strong>&nbsp;
   <img src="https://wsrv.nl/?url=media1.giphy.com/media/s35s4lFBxpndm/giphy.gif&w=150&h=107&fit=cover&a=attention&output=gif&n=-1" width="150" height="107" align="bottom" alt="Jesus blessing" />
+  <br />
 </p>
 
 <p align="center">
   check out my <a href="https://tomiseregi.si">Portfolio</a>&nbsp;<img src="./assets/fire-inline.gif" width="17" height="22" align="middle" alt="Fire" />
+  <br />
   <br />
   and my project <a href="https://digestseo.com">DigestSEO</a>&nbsp;<img src="./assets/fire-inline.gif" width="17" height="22" align="middle" alt="Fire" />
 </p>
