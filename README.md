@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8yZTd3aDl3bzBuNWFsdXhvMGo2cjRucjdoMWFtemJ6N2h0cTkydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FuJnPhK1koJ3NmvZJE/giphy.gif" width="480" alt="Hello" />
+  <br />
 </p>
 
 <p align="center">
+  <br />
   <strong>I love code</strong>&nbsp;
   <img src="https://wsrv.nl/?url=media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif&w=150&h=107&fit=cover&a=attention&output=gif&n=-1" width="150" height="107" align="bottom" alt="Coding monkey" />
   &nbsp;&nbsp;<strong>and God</strong>&nbsp;
