@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8yZTd3aDl3bzBuNWFsdXhvMGo2cjRucjdoMWFtemJ6N2h0cTkydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FuJnPhK1koJ3NmvZJE/giphy.gif" width="480" alt="Hello" />
+</p>
+
 # Tommy — Engineer
 
 AI/backend engineer building MCP tools, agent infrastructure, and production automation.
